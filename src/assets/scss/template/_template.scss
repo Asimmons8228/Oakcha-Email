@@ -6,6 +6,7 @@ body,
 html, 
 .body {
   background: #f3f3f3 !important;
+
 }
 
 .container.header {
@@ -56,4 +57,9 @@ table.button.google table td {
 
 .wrapper.secondary {
   background: #f3f3f3;
+}
+tr{
+  th{
+    padding: 0 !important;
+  }
 }
